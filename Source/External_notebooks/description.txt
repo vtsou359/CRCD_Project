@@ -1,0 +1,2 @@
+External notebooks are placed inside External_notebooks. 
+These notebooks are giving ideas and approaches for the current project.
