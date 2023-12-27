@@ -1,1 +1,2 @@
 All of our project notebooks are placed here.
+Streamlit_app notebook creates a .py file and then run in terminal: streamlit run streamlit_app.py
